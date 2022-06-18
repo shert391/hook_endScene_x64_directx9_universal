@@ -1,0 +1,7 @@
+﻿  dllmain.cpp
+  hook.cpp
+  Создание кода...
+hook.obj : error LNK2019: ссылка на неразрешенный внешний символ _Direct3DCreate9@4 в функции "void * __cdecl hook::GetPointerEndScene(void)" (?GetPointerEndScene@hook@@YAPAXXZ).
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Lib\x64\d3d9.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Lib\x64\d3dx9.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+C:\Users\Shert\Desktop\hook_endScene_x64_directx9_universal\Debug\hook_endScene_x64_directx9_universal.dll : fatal error LNK1120: неразрешенных внешних элементов: 1

@@ -1,0 +1,8 @@
+﻿  hook.cpp
+C:\Users\Shert\Desktop\hook_endScene_x64_directx9_universal\hook_endScene_x64_directx9_universal\hook.cpp(66,71): warning C4244: =: преобразование "__int64" в "DWORD", возможна потеря данных
+  Создание кода
+  2 of 7 functions (28.6%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  hook_endScene_x64_directx9_universal.vcxproj -> C:\Users\Shert\Desktop\hook_endScene_x64_directx9_universal\x64\Release\hook_endScene_x64_directx9_universal.dll
